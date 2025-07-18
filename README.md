@@ -66,7 +66,7 @@ usepopcorn/
 
 - API fetching and state management
 
-📝 To Do / Improvements
+## 📝 To Do / Improvements
  - Add pagination or infinite scroll for search results
 
  - Add genre filtering or sorting options
