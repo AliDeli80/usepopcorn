@@ -25,7 +25,7 @@ Clone the repository and start the development server:
 git clone https://github.com/AliDeli80/usepopcorn.git
 cd usepopcorn
 npm install
-npm run dev     # or npm start, depending on your setup
+or npm start
 ```
 
 ## 📁 Project Structure
