@@ -82,4 +82,4 @@ Feel free to fork the repo and submit a pull request if you'd like to add featur
 This project is licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
-GitHub: AliDeli80
+AliDeli80
