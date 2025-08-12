@@ -66,6 +66,19 @@ usepopcorn/
 
 - API fetching and state management
 
+## 📸 Screenshots
+**1. Start Screen** – The main interface where users can search for movies using the search bar and view a list of matching results fetched from the API.
+
+<img width="1920" height="866" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/d2af7012-813a-480f-8546-fc89956c04fa" />
+
+**2. Movie Details Screen** – Shows detailed information about the selected movie, including title, release date, genre, IMDb rating, and a short plot summary.
+
+<img width="1920" height="865" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/a6b06e51-10a5-4868-b75a-765c5867d46a" />
+
+**3. Watchlist Screen** – Displays all movies added to the user’s watchlist, with options to remove movies or mark them as watched.
+
+<img width="1920" height="864" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/be70be60-4795-4b8f-90f6-10c742143040" />
+
 ## 📝 To Do / Improvements
  - Add pagination or infinite scroll for search results
 
